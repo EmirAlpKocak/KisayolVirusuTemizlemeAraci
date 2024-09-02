@@ -9,7 +9,7 @@ Bu araç ne yapar?
 
 Diskinizdeki tüm kısayolları siler, tüm gizli dosyaları tekrar görünür yapar ve autorun.inf dosyasını siler.
 
-Bu araç ne yapmaz?
+NOT:
 
 Eğer kısayol virüsü bilgisayarıza bulaştıysa, diski temizlediğiniz halde kısayol virüsü tekrar bulaşabilir. Bunu düzeltmek için bilgisayarınızı bir Antivirüs/Antimalware yazılımıyla tarayın. Muhtemelen Antivirüs/Antimalware yazılımı diskinizi düzeltmeyecektir. Bu aracı kullanarak düzeltebilirsiniz. Şunuda belirteyim eğer virüs diskteki dosyaları tamamen sildiyse bu araç o dosyaları kurtaramaz. Sadece gizlenmiş dosyaları kurtarabilir.
 
@@ -22,5 +22,3 @@ Araç C:\ diskini temizlemenize izin vermiyor çünkü bunu yaparsanız bilgisay
 Sistem Gereksinimleri
 
 Microsoft .NET Framework 4.0
-
-Windows XP ve daha sonraki Windows sürümleri
