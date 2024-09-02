@@ -11,7 +11,7 @@ Diskinizdeki tüm kısayolları siler, tüm gizli dosyaları tekrar görünür y
 
 Bu araç ne yapmaz?
 
-Eğer kısayol virüsü bilgisayarıza bulaştıysa, diski temizledğiniz halde kısayol virüsü tekrar bulaşabilir. Bunu düzeltmek için bilgisayarınızı bir Antivirüs/Antimalware yazılımıyla tarayın. Muhtemelen Antivirüs/Antimalware yazılımı diskinizi düzeltmeyecektir. Bu aracı kullanarak düzeltebilirsiniz. Şunuda belirteyim eğer virüs diskteki dosyaları tamamen sildiyse bu araç o dosyaları kurtaramaz. Sadece gizlenmiş dosyaları kurtarabilir.
+Eğer kısayol virüsü bilgisayarıza bulaştıysa, diski temizlediğiniz halde kısayol virüsü tekrar bulaşabilir. Bunu düzeltmek için bilgisayarınızı bir Antivirüs/Antimalware yazılımıyla tarayın. Muhtemelen Antivirüs/Antimalware yazılımı diskinizi düzeltmeyecektir. Bu aracı kullanarak düzeltebilirsiniz. Şunuda belirteyim eğer virüs diskteki dosyaları tamamen sildiyse bu araç o dosyaları kurtaramaz. Sadece gizlenmiş dosyaları kurtarabilir.
 
 Önemli Bilgiler
 
