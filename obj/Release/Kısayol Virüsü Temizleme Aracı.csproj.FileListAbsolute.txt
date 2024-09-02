@@ -1,0 +1,9 @@
+C:\Users\Emir\Desktop\Kısayol Virüsü Temizleme Aracı\bin\Release\Kısayol Virüsü Temizleme Aracı.exe
+C:\Users\Emir\Desktop\Kısayol Virüsü Temizleme Aracı\bin\Release\Kısayol Virüsü Temizleme Aracı.pdb
+C:\Users\Emir\Desktop\Kısayol Virüsü Temizleme Aracı\obj\Release\Kısayol Virüsü Temizleme Aracı.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\Kısayol Virüsü Temizleme Aracı\obj\Release\Kısayol_Virüsü_Temizleme_Aracı.Form1.resources
+C:\Users\Emir\Desktop\Kısayol Virüsü Temizleme Aracı\obj\Release\Kısayol_Virüsü_Temizleme_Aracı.Properties.Resources.resources
+C:\Users\Emir\Desktop\Kısayol Virüsü Temizleme Aracı\obj\Release\Kısayol Virüsü Temizleme Aracı.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\Kısayol Virüsü Temizleme Aracı\obj\Release\Kısayol Virüsü Temizleme Aracı.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Kısayol Virüsü Temizleme Aracı\obj\Release\Kısayol Virüsü Temizleme Aracı.exe
+C:\Users\Emir\Desktop\Kısayol Virüsü Temizleme Aracı\obj\Release\Kısayol Virüsü Temizleme Aracı.pdb
